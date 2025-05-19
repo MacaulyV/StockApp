@@ -2,7 +2,7 @@
 
 # 📦 StockApp – Controle Simples de Estoque
 
-> ## 🎥 Vídeo da Apresentação
+ ## 🎥 Vídeo da Apresentação
 
  **Obs:** O vídeo acabou ficando com cerca de **10 minutos**.<br>
  Peço desculpas pela duração — mesmo sendo um app simples, tem vários detalhes importantes, então acabei me estendendo um pouco na explicação e o tempo voou.

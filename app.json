@@ -1,0 +1,35 @@
+{
+  "expo": {
+    "name": "StockApp",
+    "slug": "stockapp",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/Logo-App.png",
+    "userInterfaceStyle": "light",
+    "scheme": "stockapp",
+    "splash": {
+      "image": "./assets/Logo-Splash.png",
+      "backgroundColor": "#070F1B",
+      "resizeMode": "contain",
+      "imageResizeMode": "contain"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "package": "com.macauly.stockapp",
+      "edgeToEdgeEnabled": true,
+      "permissions": [
+        "android.permission.CAMERA"
+      ]
+    },
+    "web": {},
+    "plugins": [
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "994b150b-1734-45c3-b762-277487f3b1b6"
+      }
+    }
+  }
+}

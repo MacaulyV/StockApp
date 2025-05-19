@@ -7,7 +7,7 @@
  **Obs:** O vídeo acabou ficando com cerca de **10 minutos**.<br>
  Peço desculpas pela duração — mesmo sendo um app simples, tem vários detalhes importantes, então acabei me estendendo um pouco na explicação e o tempo voou.
 
- **Recomendo assistir em 1.5x**, que fica numa velocidade ótima (melhor que 1x ou 2x).
+ **Recomendo assistir em 1.5x**, que fica perfeito (melhor que 1x ou 2x).
 
 > [🔗 Link do vídeo](https://youtu.be/UJEqNrj6RZA)
 

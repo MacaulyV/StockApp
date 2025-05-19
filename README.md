@@ -1,3 +1,5 @@
+![Descrição banner](https://github.com/user-attachments/assets/402eeff6-592e-424f-ba67-7536cc3c4ead)
+
 # 📦 StockApp – Controle Simples de Estoque
 
 ---

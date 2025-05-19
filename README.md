@@ -2,6 +2,8 @@
 
 # 📦 StockApp – Controle Simples de Estoque
 
+[Link do vídeo](https://youtu.be/UJEqNrj6RZA)
+
 ---
 
 ## 🚀 **O que é o StockApp?**
